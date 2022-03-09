@@ -1,5 +1,5 @@
 # phprestroute
-A simple PHP framework for hobbyist
+A simple PHP framework for hobbyist. This framework features configurable routing, a simple authentication and mysql database connection.
 
 Installation
 ------------
